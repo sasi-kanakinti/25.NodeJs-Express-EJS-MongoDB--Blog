@@ -7,7 +7,7 @@
 - Database (MongoDB) Free Cluster
 
 ## Setup Database
-Sign up for MongoDB free database cluster:  [MongoDB]([https://www.youtube.com/@NetNinja](https://www.mongodb.com/))
+Sign up for MongoDB free database cluster:  [MongoDB](https://www.mongodb.com/)
 
 ## Create .env file
 Create a .env file to store your credentials. Example below:
